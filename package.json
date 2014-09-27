@@ -1,0 +1,19 @@
+{
+  "name": "NewsTutorial",
+  "version": "0.0.0",
+  "description": "Just learning Some MEAN stack shiz",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start test/karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CommandLineDesign/NewsTutorial"
+  },
+  "author": "CommandLineDesign",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CommandLineDesign/NewsTutorial/issues"
+  },
+  "homepage": "https://github.com/CommandLineDesign/NewsTutorial"
+}
